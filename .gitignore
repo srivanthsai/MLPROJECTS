@@ -3,8 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# my virtual environment
-venv/
+# my data ingestion
+artifacts/
 
 # C extensions
 *.so
