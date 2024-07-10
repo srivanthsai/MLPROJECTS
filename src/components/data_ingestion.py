@@ -37,4 +37,7 @@ class DataIngenstion:
             )
         except Exception as e:
             raise customException(e,sys) 
-    
+        
+if __name__ == "__main__":
+    obj=DataIngenstion()
+    obj.initiate_data_ingenstion()   
