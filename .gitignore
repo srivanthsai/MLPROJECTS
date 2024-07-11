@@ -5,7 +5,7 @@ __pycache__/
 
 # my data ingestion
 artifacts/
-
+catboost_info/
 # C extensions
 *.so
 
